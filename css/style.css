@@ -1,0 +1,25 @@
+.form-box{
+	width: 40% ;
+	margin: 60px auto;
+	background-color: green;
+	border-radius: 5px;
+	padding: 40px 60px;
+	text-align: center;
+}
+
+form .form-control{
+	width: 80%;
+	padding: 10px;
+	display: block;
+	margin: 15px auto;
+	border-radius: 5px;
+}
+ .button{
+ 	width: 30%;
+	padding: 10px;
+	display: block;
+	margin: 20px auto;
+	border-radius: 50px;
+	text-align: center;
+ }
+ 
